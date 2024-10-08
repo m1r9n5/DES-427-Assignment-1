@@ -1,4 +1,4 @@
-URL to project:
+URL to project: https://m1r9n5.github.io/DES-427-Assignment-1/index.html
 
 # Assignment 1: Interactive Visual Item Project
 
